@@ -14,7 +14,6 @@ chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabdefghijklmnopqrstuvwxyz0123456789"
 discord = "https://discord.gift/"
 
 
-gen = 0
 
 
 print("Scraping 28731 Proxies")
